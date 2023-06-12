@@ -1,5 +1,5 @@
 # https://www.kaggle.com/code/subinium/storytelling-with-data-netflix-ver/notebook
-# https://ipyvizzu.vizzuhq.com/examples/examples.html
+# https://ipyvizzu.vizzuhq.com/latest/examples/presets
 import pandas as pd
 from ipyvizzu import Chart, Data, Config, Style
 from streamlit.components.v1 import html
